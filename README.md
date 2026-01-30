@@ -1,4 +1,4 @@
-﻿# 👋 Hola, soy Mauricio Morales
+﻿Hola, soy Mauricio Morales
 
 🎓 Estudiante de Ingeniería en Ciencias de la Computación en la EPN (Ecuador)  
 💻 Intereses: Backend, Inteligencia Artificial, Sistemas y Redes  
@@ -39,14 +39,14 @@ Me interesa crear software útil, escalable y bien estructurado.
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bidobelemti&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bidobelemti&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contacto
 - 📧 Email: mauriceuve3221@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/mauricio-morales-87651b305
+
 
 
 
