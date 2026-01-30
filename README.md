@@ -42,7 +42,7 @@ Me interesa crear software útil, escalable y bien estructurado.
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RikiGL&show_icons=true&theme=dark&locale=en&layout=compact&v=2" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bidobelemti&show_icons=true&theme=dark&locale=en&layout=compact&v=2" alt="Top Languages" />
 </p>
 
 ---
@@ -50,5 +50,6 @@ Me interesa crear software útil, escalable y bien estructurado.
 ## 📫 Contacto
 - 📧 Email: mauriceuve3221@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/mauricio-morales-87651b305
+
 
 
