@@ -35,6 +35,8 @@ Me interesa crear software útil, escalable y bien estructurado.
 
 🔹 **Proyecto de CNN para identificar señales de tránsito**  
 👉 https://github.com/Bidobelemti/Project_traffic
+
+
 ---
 
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
@@ -48,4 +50,5 @@ Me interesa crear software útil, escalable y bien estructurado.
 ## 📫 Contacto
 - 📧 Email: mauriceuve3221@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/mauricio-morales-87651b305
+
 
