@@ -39,13 +39,17 @@ Me interesa crear software útil, escalable y bien estructurado.
 
 ---
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bidobelemti&layout=compact&theme=tokyonight)
+<td width="40%" align="center">
 
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+  </td>
 ---
 
 ## 📫 Contacto
 - 📧 Email: mauriceuve3221@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/mauricio-morales-87651b305
+
 
 
 
