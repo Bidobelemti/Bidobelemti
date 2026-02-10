@@ -13,12 +13,6 @@ Me interesa crear software útil, escalable y bien estructurado.
 ---
 
 ## 🛠️ Tecnologías
-- 🐍 Python
-- 🗄️ SQL
-- 🐧 Linux
-- 🔧 Git & GitHub
-
----
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
@@ -49,6 +43,7 @@ Me interesa crear software útil, escalable y bien estructurado.
 ## 📫 Contacto
 - 📧 Email: mauriceuve3221@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/mauricio-morales-87651b305
+
 
 
 
