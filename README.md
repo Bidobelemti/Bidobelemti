@@ -1,49 +1,60 @@
-﻿Hola, soy Mauricio Morales
+# ¡Hola! Soy Mauricio Morales 👋
 
-🎓 Estudiante de Ingeniería en Ciencias de la Computación en la EPN (Ecuador)  
-💻 Intereses: Backend, Inteligencia Artificial, Sistemas y Redes  
-🚀 En constante aprendizaje
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Estudiante%20de%20Ingenier%C3%ADa%20en%20CC-blue?style=flat-square" alt="EPN">
+  <img src="https://img.shields.io/badge/Enfoque-Data%20Science%20%7C%20Machine%20Learning-orange?style=flat-square" alt="Enfoque">
+</p>
+
+Estudiante de 8vo semestre de **Ingeniería en Ciencias de la Computación** en la Escuela Politécnica Nacional (EPN), Ecuador. Apasionado por la arquitectura de datos, los algoritmos de optimización, el desarrollo Backend y la Inteligencia Artificial.
+
+Con experiencia práctica en la automatización de procesos, modelado dimensional y diseño de soluciones de software escalables y bien estructuradas.
 
 ---
 
-## 🧠 Sobre mí
-Soy un estudiante apasionado por la tecnología, con experiencia en desarrollo de soluciones usando Python y C++. 
-Me interesa crear software útil, escalable y bien estructurado.
+## 🛠️ Tecnologías y Herramientas
 
----
+### 💻 Lenguajes de Programación y Consultas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## 🛠️ Tecnologías
+### 📊 Datos e Inteligencia Artificial
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+### ⚙️ Infraestructura y Herramientas
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ## 📌 Proyectos Destacados
-🔹 **Sistema de Recuperación de información clásica**  
-👉 https://github.com/Bidobelemti/RI_ISW753_PROJECT
 
-🔹 **Proyecto de reserva de mesas de un restaurante**  
-👉 https://github.com/Bidobelemti/aplicacionesweb-project
+### 🚗 [Project Traffic - Clasificación de Señales de Tránsito con CNN](https://github.com/Bidobelemti/Project_traffic)
+Desarrollo e implementación de una Red Neuronal Convolucional (CNN) optimizada para la clasificación y reconocimiento automatizado de señales de tránsito. Enfocado en visión por computadora y preprocesamiento de imágenes para modelos predictivos.
 
-🔹 **Proyecto de CNN para identificar señales de tránsito**  
-👉 https://github.com/Bidobelemti/Project_traffic
+### 🔍 [Sistema de Recuperación de Información Clásica](https://github.com/Bidobelemti/RI_ISW753_PROJECT)
+Proyecto enfocado en algoritmos de búsqueda, indexación y procesamiento de lenguaje natural (NLP) básico. Implementación de estructuras de datos eficientes para la consulta de documentos y cálculo de relevancia textual.
 
+### 🍽️ [Sistema de Reserva de Mesas para Restaurantes](https://github.com/Bidobelemti/aplicacionesweb-project)
+Aplicación web enfocada en el diseño backend y gestión de persistencia de datos. Permite la administración de disponibilidad en tiempo real, flujos de usuarios y control de concurrencia en reservas.
 
 ---
 
-<td width="40%" align="center">
+## 📊 Estadísticas de GitHub
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bidobelemti&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<p align="left">
+  <img height="180" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bidobelemti&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
+</p>
 
-  </td>
 ---
 
-## 📫 Contacto
-- 📧 Email: mauriceuve3221@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/mauricio-morales-87651b305
-
+## 📫 Conectemos
+- 💼 **LinkedIn:** [linkedin.com/in/mauricio-morales-87651b305](https://linkedin.com/in/mauricio-morales-87651b305)
+- 📧 **Correo Electrónico:** [mauriceuve3221@gmail.com](mailto:mauriceuve3221@gmail.com)
 
 
 
