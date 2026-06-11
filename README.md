@@ -47,7 +47,7 @@ Aplicación web enfocada en el diseño backend y gestión de persistencia de dat
 ## 📊 Estadísticas de GitHub
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bidobelemti&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
+  <img height="360" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bidobelemti&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
 </p>
 
 ---
